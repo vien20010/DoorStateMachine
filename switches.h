@@ -2,7 +2,7 @@
  * switches.h
  *
  *  Created on: Mar 16, 2018
- *      Author: Quoc Bao
+ *      Author: Lam Vien
  */
 
 #ifndef SWITCHES_H_
