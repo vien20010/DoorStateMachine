@@ -1,8 +1,8 @@
 /*
  * led.c
  *
- *  Created on: Mar 16, 2018
- *      Author: Quoc Bao
+ *  Created on: Jun 9, 2020
+ *      Author: Lam Vien
  */
 #include "led.h"
 
